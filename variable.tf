@@ -1,9 +1,9 @@
 #variables for EC2 instances
 variable "ami_id" {
     default = {
-      "0":"ami-0c2ab3b8efb09f272"
-      "1":"ami-0d70546e43a941d70"
-      "2":"ami-0df583d5f9d8e6cda"
+      "0":"ami-05bfbece1ed5beb54"
+      "1":"ami-0ab0629dba5ae551d"
+      "2":"ami-0d03b1ad793d7ac93"
     }
     type =  map 
    
